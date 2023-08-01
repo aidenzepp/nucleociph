@@ -1,3 +1,5 @@
+//! A library for encoding phrases into nucleotide characters, and vice versa.
+
 // private imports...
 mod decode;
 mod encode;
