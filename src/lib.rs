@@ -1,9 +1,7 @@
 // private imports...
-mod cipher;
-mod nucleo;
-mod phrase;
+mod decode;
+mod encode;
 
 // public re-exports...
-pub use cipher::Cipher;
-pub use nucleo::Nucleo;
-pub use phrase::Phrase;
+pub use decode::decode;
+pub use encode::encode;
