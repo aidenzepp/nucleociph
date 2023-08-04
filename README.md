@@ -13,7 +13,7 @@ You can use this library to:
 Add `nucleociph` to your `Cargo.toml`:
 ```toml
 [dependencies]
-nucleociph = "1.0.0"
+nucleociph = "1.0.1"
 ```
 
 ## Examples

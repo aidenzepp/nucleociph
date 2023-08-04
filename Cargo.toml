@@ -1,11 +1,12 @@
 [package]
 name = "nucleociph"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Aiden Zepp <aiden.zepp@protonmail.com>"]
 edition = "2021"
 description = " A library for encoding phrases into nucleotide characters, and vice versa."
 repository = "https://github.com/aidenzepp/nucleociph"
 license = "MIT"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
